@@ -1,7 +1,6 @@
 
 from collections import namedtuple
 from random import randrange
-import hashlib
 
 
 Key = namedtuple('Key', ['exponent', 'N'])
